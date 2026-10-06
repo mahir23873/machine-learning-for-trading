@@ -1,8 +1,8 @@
-# Machine Learning for Trading — 3rd Edition
+# Machine Learning for Trading — 3rd Edition 
 
 **Build, test, and deploy ML-driven trading strategies — from data sourcing to live execution.**
 
-This repository hosts the code for [*Machine Learning for Trading, 3rd Edition*](https://amzn.to/4eigy2F)
+This repository hosts the code for various algorithms : [*Machine Learning for Trading, 3rd Edition*](https://amzn.to/4eigy2F)
 by [Stefan Jansen](https://www.linkedin.com/in/applied-ai/) — a ground-up
 rebuild, organized around one end-to-end workflow: how you define a research idea and develop it iteratively into a
 strategy you can actually run, and keep running, in a live market.
